@@ -2,7 +2,6 @@
 const gallery = [
     "./images/maharaj.jpeg",
     "./images/shivneri.webp",
-    "./images/lohagad.jpg",
     "./images/sinhagad.webp",
     "./images/rajgad.jpg",
     "./images/raigad.jpg",
